@@ -12,8 +12,8 @@
 		</repository>
 	</distributionManagement>
 	<modules>
-		<module>com.module.desktopapp</module>
-		<module>com.module.webapp</module>
-		<module>com.module.api</module>
+		<module>com.module.desktop-core</module>
+		<module>com.module.web-core</module>
+		<module>com.module.api-core</module>
 	</modules>
 </project>
